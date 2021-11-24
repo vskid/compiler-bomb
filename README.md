@@ -2,7 +2,7 @@
 A compiler bomb with devastating consequences if you even try to compile/run it.
 
 ## Explanation ##
-uint64_t, unsigned long long, they're both unsigned 64-bit integers.
+uint64_t is an unsigned 64-bit integer type.
 
 The tilde (~) is the bitwise NOT operator in C (it flips the bits of a value).
 
